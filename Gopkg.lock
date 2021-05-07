@@ -7,12 +7,6 @@
   revision = "b26d9c308763d68093482582cea63d69be07a0f0"
   version = "v0.3.0"
 
-[[projects]]
-  branch = "master"
-  name = "golang.org/x/tools"
-  packages = ["go/vcs"]
-  revision = "25101aadb97aa42907eee6a238d6d26a6cb3c756"
-
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1

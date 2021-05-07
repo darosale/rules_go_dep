@@ -35,3 +35,4 @@ on the fly.  If `gopkg_bzl` is used, then the checked-in `Gopkg.bzl` can be upda
 ```sh
 bazel run @godeps//:update
 ```
+testing2
